@@ -1,10 +1,10 @@
 
 public class Factura {
  
-	 public int num;
-	 public float base;
-	 public float tipoIva;
-	 public Estados estado;
+	 private int num;
+	 private float base;
+	 private float tipoIva;
+	 private Estados estado;
 	 
 	 public static void main(String[] args) {
 		
