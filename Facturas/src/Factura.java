@@ -9,5 +9,11 @@ public class Factura {
 	 public static void main(String[] args) {
 		
 	}
+	 public float getTotal() {
+		 return 0;
+	 }
+	 public float getCantidadIva() {
+		 return 0;
+	 }
 
 }
